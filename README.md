@@ -1,6 +1,6 @@
 # To-Do List
 
-A simple desktop To-Do list built with javaFX using the MVVM (Model-View-ViewModel) architecture.
+A simple desktop To-Do List built with JavaFX using the MVVM (Model-View-ViewModel) architecture.
 
 ## Project Structure
 
