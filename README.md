@@ -32,7 +32,7 @@ todo_list
 - controller - JavaFX controllers that wire up buttons and UI events.
 - model - The actual data and logic. Task, TaskManager, and UndoManager live here.
 - util - For extras like Action used in undo functionality.
-- view - Just the UI skeleton — all your layout stuff in FXML.
+- view - Just the UI skeleton, i.e., all the layout stuff in FXML.
 - viewmodel - Exposes logic to the view while keeping it dumb. Middleman between model and view.
 
 ## What It Does?
