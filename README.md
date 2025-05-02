@@ -2,7 +2,7 @@
 
 A simple desktop To-Do List built with JavaFX using the MVVM (Model-View-ViewModel) architecture.
 
-![2025-05-02T08:34:50,562517746+05:30](https://github.com/user-attachments/assets/d68b45e5-bb50-4d27-991d-701926f6d67c)
+![2025-05-02T08:38:01,060716345+05:30](https://github.com/user-attachments/assets/a9e456de-253d-4337-8060-a8418914e89c)
 
 ## Project Structure
 
