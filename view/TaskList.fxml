@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="controller.TaskListController" spacing="5" style="-fx-padding: 10;">
+    <ListView fx:id="taskListView" prefHeight="200" />
+    <HBox spacing="10">
+        <Button text="Remove Selected" onAction="#onRemoveSelected" />
+        <Button text="Mark Completed" onAction="#onMarkCompleted" />
+    </HBox>
+</VBox>

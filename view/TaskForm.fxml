@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<HBox xmlns:fx="http://javafx.com/fxml" fx:controller="controller.TaskFormController" spacing="10" style="-fx-padding: 10;">
+    <TextField fx:id="titleField" promptText="Title" />
+    <TextField fx:id="descField" promptText="Description" />
+    <DatePicker fx:id="dueDatePicker" />
+    <Button text="Add Task" onAction="#onAddTask" />
+</HBox>
