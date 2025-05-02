@@ -1,4 +1,4 @@
-# JavaFX To-Do List
+# To-Do List
 
 A simple desktop To-Do list built with javaFX using the MVVM (Model-View-ViewModel) architecture.
 
