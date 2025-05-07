@@ -8,7 +8,7 @@ A simple desktop To-Do List built with JavaFX using the MVVM (Model-View-ViewMod
 
 ```
 todo_list
-├── app                                 # Launched the JavaFX app
+├── app                                 # Launch the JavaFX app
 │   └── Main.java
 ├── controller                          # Event handlers for UI (JavaFX controllers)
 │   ├── MainViewController.java
